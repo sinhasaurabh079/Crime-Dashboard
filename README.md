@@ -1,4 +1,4 @@
-# Crime Dashboard
+# SafeHer - Crime Dashboard
 ## Deployed on streamlit cloud - <a href = "https://crime-dashboard-safeher.streamlit.app/" > Link</a>
 
 ## Overview
